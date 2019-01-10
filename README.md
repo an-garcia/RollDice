@@ -4,7 +4,7 @@ Dice Roller
 Android application to learn Android Jetpack with Kotlin.
 This project is based on [Course](https://www.udacity.com/course/developing-android-apps-with-kotlin--ud9012)
 
-![Scheme](/readmeImages/device-2017-03-11-172715.png)
+![Scheme](/readmeImages/Screenshot_1547163064.png)
 
 
 Pre-requisites
